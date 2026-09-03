@@ -119,4 +119,6 @@ GitHub: https://github.com/Anshika-s18
 
 LeetCode: https://leetcode.com/u/Anshika_s18/
 
+Gmail : anshika.p.singh.24@gmail.com
+
 
