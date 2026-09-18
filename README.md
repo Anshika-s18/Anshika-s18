@@ -1,5 +1,10 @@
-# Hello 👋,
-I'm Anshika Pratap Singh
+<div align="center">
+  <h1>Hello 👋</h1>
+  <h1 style="font-size: 2.5rem; color: #58a6ff;"><b>Anshika Pratap Singh</b></h1>
+</div>
+
+
+
 
 ### Computer Science Engineering Student | Backend Developer | AI & ML Enthusiast
 
