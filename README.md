@@ -47,7 +47,6 @@ I enjoy developing high-quality software projects, exploring emerging technologi
 **AI & Machine Learning**
 * <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="16" height="16" alt="Machine Learning" /> Machine Learning
 * <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="16" height="16" alt="Computer Vision" /> Computer Vision
-* <img src="https://cdn.simpleicons.org/google/4285F4" width="16" height="16" alt="MediaPipe" /> MediaPipe
 * <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="16" height="16" alt="Image Classification" /> Image Classification
 
 **Tools**
